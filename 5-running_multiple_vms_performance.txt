@@ -1,0 +1,5 @@
+**** Running multiple virtual machines and performance impact: **** 
+- Running too many virtual machines (VMs) at once can slow down your computer because VMs use your 
+computer's memory (RAM) and storage. It's important to only run the ones you need and make sure your
+system has enough resources to handle them.
+
